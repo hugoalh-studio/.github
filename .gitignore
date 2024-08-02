@@ -1,5 +1,7 @@
 #MARK: {Common}
+*.autosave
 *.bak
+*.cache
 *.diff
 *.dump
 *.eml
@@ -15,6 +17,7 @@
 *.tmp
 .cache/
 .git/
+.svn/
 .temp/
 .tmp/
 *_cache/
@@ -32,6 +35,7 @@
 *.apk
 *.arj
 *.bin
+*.bz
 *.bz2
 *.bzip
 *.bzip2
@@ -131,6 +135,9 @@ bower_components/
 CVS/
 .cvsignore
 
+#MARK: Dart
+.dart_tool/
+
 #MARK: Delphi
 __history/
 __recovery/
@@ -186,6 +193,9 @@ gradle-app.setting
 
 #MARK: GWT
 .apt_generated/
+.gwt-tmp/
+.gwt/
+gwt-unitCache/
 
 #MARK: Jekyll
 .jekyll-cache/
@@ -304,11 +314,27 @@ web_modules/
 #MARK: StyleLint
 .stylelintcache
 
+#MARK: Sublime Text
+*.stTheme.cache
+*.sublime-workspace
+*.tmlanguage.cache
+*.tmPreferences.cache
+bh_unicode_properties.cache
+
 #MARK: TernJS
 .tern-port
 
+#MARK: Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
 #MARK: TypeScript
 *.tsbuildinfo
+
+#MARK: Vim
+Session.vim
+Sessionx.vim
 
 #MARK: Visual Studio
 .localhistory/
