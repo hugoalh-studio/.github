@@ -23,13 +23,17 @@
 
 <div align="center">
 
+[![Codeberg: @hugoalh](../assets/badges/repositories/codeberg.svg "Codeberg: @hugoalh")](https://codeberg.org/hugoalh?tab=repositories)
 [![GitHub: @hugoalh](../assets/badges/repositories/github.svg "GitHub: @hugoalh")](https://github.com/hugoalh?tab=repositories)
 [![GitHub: @hugoalh-studio](../assets/badges/repositories/github-studio.svg "GitHub: @hugoalh-studio")](https://github.com/orgs/hugoalh-studio/repositories)
+[![KaKi87 Git: @hugoalh](../assets/badges/repositories/kaki87-git.svg "KaKi87 Git: @hugoalh")](https://git.kaki87.net/hugoalh?tab=repositories)
 
 </div>
 
 <h2 id="f13b05c6e608-resources">📚 Resources</h2>
 
+- [hugoalh GPG Keys](https://github.com/hugoalh/hugoalh/blob/main/assets/gpg-keys.tsv)
+- [hugoalh SSH Keys](https://github.com/hugoalh/hugoalh/blob/main/assets/ssh-keys.tsv)
 - [hxhS (hugoalh & hugoalh Studio) Universal Coding Guide](https://github.com/hugoalh/hugoalh/blob/main/guides/hxhs-universal-coding.md)
 - [hxhS (hugoalh & hugoalh Studio) Universal Contributing Guide](https://github.com/hugoalh/hugoalh/blob/main/guides/hxhs-universal-contributing.md)
 - [hxhS (hugoalh & hugoalh Studio) Universal General Process Time](https://github.com/hugoalh/hugoalh/blob/main/guides/hxhs-universal-general-process-time.md)
